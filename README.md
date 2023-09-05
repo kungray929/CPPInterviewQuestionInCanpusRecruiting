@@ -26,7 +26,7 @@
 19. vector的扩容原理
 20. C++单例模式
 21. map查找重复值的函数
-22. map的实现原理和红黑树的特点
+22. map的实现原理和红黑树的特点 https://www.cnblogs.com/niceyoo/p/13941947.html
 23. main函数传参数的意义
 24. 三种继承方式：http://c.biancheng.net/view/2269.html
 25. 析构函数和虚函数：https://blog.csdn.net/weicao1990/article/details/81911341
